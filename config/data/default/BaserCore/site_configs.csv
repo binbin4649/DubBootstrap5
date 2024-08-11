@@ -1,0 +1,58 @@
+"﻿"id"","name","value","created","modified"
+"1","address","福岡県","2024-07-01 18:47:25",""
+"2","email","","2024-07-01 18:47:25",""
+"3","widget_area","1","2024-07-01 18:47:25",""
+"4","maintenance","","2024-07-01 18:47:25",""
+"5","smtp_host","","2024-07-01 18:47:25",""
+"6","smtp_user","cmsadmin","2024-07-01 18:47:25",""
+"7","smtp_password","demodemo","2024-07-01 18:47:25",""
+"8","smtp_port","","2024-07-01 18:47:25",""
+"9","admin_list_num","10","2024-07-01 18:47:25",""
+"10","google_analytics_id","","2024-07-01 18:47:25",""
+"11","content_types","YToxOntzOjk6IuODmuODvOOCuCI7czo5OiLjg5rjg7zjgrgiO30=","2024-07-01 18:47:25",""
+"12","admin_theme","BcAdminThird","2024-07-01 18:47:25",""
+"13","login_credit","","2024-07-01 18:47:25",""
+"14","first_access","","2024-07-01 18:47:25",""
+"15","editor","BaserCore.BcCkeditor","2024-07-01 18:47:25",""
+"16","editor_styles","#青見出し
+h3 {
+color:Blue;
+}
+#赤見出し
+h3 {
+color:Red;
+}
+#黄マーカー
+span {
+background-color:Yellow;
+}
+#緑マーカー
+span {
+background-color:Lime;
+}
+#大文字
+big {}
+#小文字
+small {}
+#コード
+code {}
+#削除文
+del {}
+#挿入文
+ins {}
+#引用
+cite {}
+#インライン
+q {}","2024-07-01 18:47:25",""
+"17","editor_enter_br","","2024-07-01 18:47:25",""
+"18","admin_side_banner","","2024-07-01 18:47:25",""
+"19","smtp_tls","","2024-07-01 18:47:25",""
+"20","version","","2024-07-01 18:47:25",""
+"21","google_maps_api_key","","2024-07-01 18:47:25",""
+"22","use_site_device_setting","","2024-07-01 18:47:25",""
+"23","use_site_lang_setting","","2024-07-01 18:47:25",""
+"24","use_update_notice","","2024-07-01 18:47:25",""
+"25","contents_sort_last_modified","","2024-07-01 18:47:25",""
+"26","mail_additional_parameters","","2024-07-01 18:47:25",""
+"27","outer_service_output_header","","2024-07-01 18:47:25",""
+"28","outer_service_output_footer","","2024-07-01 18:47:25",""

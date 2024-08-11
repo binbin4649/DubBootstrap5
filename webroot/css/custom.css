@@ -1,0 +1,64 @@
+small {
+    font-size: 11px;
+}
+
+p {
+    line-height: 1.7;
+}
+
+h6 {
+    font-weight: 400;
+}
+
+.jumbotron-extend {
+	background: 
+		url(/dub_bootstrap5/img/1300x600.png) center center no-repeat;
+    background-size: cover;
+    height: 55vh;
+}
+
+.link-secondary {
+    text-decoration: none;
+ }
+
+.link-secondary:hover {
+    color: var(--bs-primary) !important;
+    border-bottom: solid;
+}
+
+.status-header{
+	font-size: 0.8rem;
+}
+
+@media screen and (max-width: 360px){
+	.narrow-size{font-size: 0.8rem;}
+}
+
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+
+/*SNS Button*/
+.facebook-dub {
+    color: gray;
+}
+.facebook-dub:hover {
+color: #3B5999;
+}
+
+.twitter-dub {
+color: gray;
+}
+.twitter-dub:hover {
+color: #000000;
+}
+
+.line-dub {
+color: gray;
+}
+.line-dub:hover {
+color: #00C300;
+}
