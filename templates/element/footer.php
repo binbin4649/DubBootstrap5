@@ -25,7 +25,7 @@
                         <li class="mb-1"><a href="price.html" class="link-secondary">料金</a></li>
                         <li class="mb-1"><a href="about.html" class="link-secondary">link サンプル</a></li>
                         <li class="mb-1"><a href="about.html" class="link-secondary">link サンプル</a></li>
-                        <li class="mb-1"><a href="faq.html" class="link-secondary">Q&A - よくある質問</a></li>
+                        <li class="mb-1"><a href="/qanda/" class="link-secondary">Q&A - よくある質問</a></li>
                         <li class="mb-1"><a href="about.html" class="link-secondary">link サンプル</a></li>
                     </ul>
                 </div>
@@ -35,6 +35,7 @@
                         <li class="mb-1"><a href="signup.html" class="link-secondary">会員登録</a></li>
                         <li class="mb-1"><a href="login.html" class="link-secondary">ログイン</a></li>
                         <li class="mb-1"><a href="reset_password.html" class="link-secondary">パスワード再発行</a></li>
+                        <li class="mb-1"><a href="/contact/" class="link-secondary">お問い合わせ</a></li>
                         <li class="mb-1"><a href="about.html" class="link-secondary">事業概要</a></li>
                         <li class="mb-1"><a href="terms_of_service.html" class="link-secondary">利用規約</a></li>
                     </ul>

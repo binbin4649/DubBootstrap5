@@ -1,6 +1,5 @@
 <?php
 
-declare(strict_types=1);
 /**
  * baserCMS :  Based Website Development Project <https://basercms.net>
  * Copyright (c) NPO baser foundation <https://baserfoundation.org/>
@@ -11,8 +10,18 @@ declare(strict_types=1);
  * @license       https://basercms.net/license/index.html MIT License
  */
 
-namespace DubBootstrap5;
+/**
+ * メールフォーム非公開時表示ページ
+ *
+ * 呼出箇所：メールフォーム
+ *
+ * @var \BaserCore\View\BcFrontAppView $this
+ */
+?>
 
-use BaserCore\BcPlugin;
+<h3 class="fs-6 text-secondary border-bottom mb-3 mb-md-4"><?php $this->BcBaser->contentsTitle() ?></h3>
 
-class Plugin extends BcPlugin {}
+<p class="m-3">
+    [受付中止]<br>
+    現在、受付を中止しています。
+</p>

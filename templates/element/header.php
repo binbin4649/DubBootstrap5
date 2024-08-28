@@ -1,7 +1,7 @@
 <header class="border-bottom">
     <nav class="navbar navbar-expand-md navbar-light">
         <div class="container-fluid">
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="/">
                 <?php $this->BcBaser->img('198x33.png', ['alt' => 'logo image']) ?>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
